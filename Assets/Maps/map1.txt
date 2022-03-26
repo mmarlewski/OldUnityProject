@@ -1,0 +1,26 @@
+3
+5
+5
+
+.....
+.xxx.
+.xxx.
+.xxx.
+.....
+
+xxxxx
+xxxxx
+xxxxx
+xxxxx
+xxxxx
+
+xxxxx
+x...x
+x.x.x
+x...x
+xxxxx
+
+3
+player 1 1 2
+elevator 3 2 2 false 0 0 0
+elevator 4 4 0 true 3 3 2
